@@ -1,1 +1,10 @@
+**/.DS_Store
+
 java-spring-boot-sample/target/*
+
+terraform-infrastructure/.terraform
+terraform-infrastructure/.terraform.lock.hcl
+terraform-infrastructure/terraform.tfstate.d
+terraform-infrastructure/terraform.tfstate
+terraform-infrastructure/terraform.tfstate.backup
+
