@@ -7,4 +7,5 @@ terraform-infrastructure/.terraform.lock.hcl
 terraform-infrastructure/terraform.tfstate.d
 terraform-infrastructure/terraform.tfstate
 terraform-infrastructure/terraform.tfstate.backup
+terraform-infrastructure/errored.tfstate
 
